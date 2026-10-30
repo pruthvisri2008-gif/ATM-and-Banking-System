@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225220077
+# Name: Pruthvisri A
+# Date: 
 
 
 # AIM:
@@ -49,6 +49,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="548" height="378" alt="image" src="https://github.com/user-attachments/assets/db63fff8-71f5-4db5-8440-6141afce4ddc" />
 
 
 
@@ -68,6 +69,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="552" height="417" alt="image" src="https://github.com/user-attachments/assets/e47a8765-99f6-4860-a574-7f1a4b63edff" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -76,6 +78,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="527" height="407" alt="image" src="https://github.com/user-attachments/assets/93af023d-8f91-4beb-980c-7041c5bfed40" />
 
 
 
@@ -87,6 +90,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+<img width="525" height="326" alt="image" src="https://github.com/user-attachments/assets/171b933b-b9b0-4da3-ac16-83703b3bac89" />
 
 
 
@@ -107,6 +111,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="528" height="413" alt="image" src="https://github.com/user-attachments/assets/e1dbf83b-1eef-4342-a0be-b281b75f4b5d" />
 
 
 
@@ -128,6 +133,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="552" height="442" alt="image" src="https://github.com/user-attachments/assets/09865693-6701-4e5b-b585-99ce03b393f0" />
 
 
 
